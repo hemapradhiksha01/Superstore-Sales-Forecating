@@ -1,4 +1,3 @@
-# Superstore-Sales-Forecating
 # Sales Forecasting and Time Series Analysis
 
 ## Overview
