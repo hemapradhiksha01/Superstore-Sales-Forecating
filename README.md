@@ -34,14 +34,6 @@ The forecasting model predicts future sales values along with 95% confidence int
 
 ---
 
-## Forecast (Zoomed View)
-
-![Forecast Zoom](images/forecast_zoom.png)
-
-A closer view of the forecast shows how predicted values follow observed trends while accounting for variability in the data.
-
----
-
 ## Correlation Analysis
 
 ![Correlation](images/correlation.png)
